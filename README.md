@@ -1,6 +1,6 @@
 # srijanone/ez_ai
 
-EzContent Page Builder: Empowers content creators, even with minimal technical knowledge, to design and publish engaging, SEO-friendly landing pages using Drupal's intuitive layout builder and rich component library. 
+EzContent AI: Provides AI Features for EZContent
 
 
 ## Installation
